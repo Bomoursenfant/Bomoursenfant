@@ -11,6 +11,8 @@
  🌍 I'm based in Vietnamese 
   
   🔭 I’m currently studying on **DUT**
+
+   ⚡ Fun fact **The visual areas of the brain are in the back**
   
 Here are some ideas to get you started:
 
