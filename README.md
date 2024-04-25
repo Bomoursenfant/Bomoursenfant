@@ -13,6 +13,12 @@
   🔭 I’m currently studying on **DUT**
 
    ⚡ Fun fact **The visual areas of the brain are in the back**
+
+   </div>
+
+<div align="center"> 
+  <a href="mailto:trinhthanh2712.work@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   
 Here are some ideas to get you started:
 
