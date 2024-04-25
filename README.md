@@ -8,7 +8,7 @@
 
 <div align="center">
 
- 🌍 I'm based in Vietnamese 
+ 🌍 I'm based in **Vietnamese**
   
   🔭 I’m currently studying on **DUT**
 
