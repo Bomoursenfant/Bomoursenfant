@@ -2,7 +2,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&center=true&random=false&width=500&height=70&lines=Hi+There+%F0%9F%91%8B;I'm+Cong+Thanh+!" /></h1>
 
-<h3 align="center">I'm a Integrated embedded engineer</h3>
+<h3 align="center">I'm a integrated embedded engineer</h3>
 
 <br/>
 
