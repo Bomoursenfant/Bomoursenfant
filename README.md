@@ -27,16 +27,7 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
-      
-<br>
-<div align=center>
-  <a href="#" title="Bomoursenfant">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api?username=Bomoursenfant&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" />
-  </a>
-   <a href="#" title="Bomoursenfant">
-    <img align="right" width="434" src="hhttps://github-readme-streak-stats.herokuapp.com/?user=Bomoursenfant&theme=tokyonight&hide_border=true" />
-  </a>
-  </div>
+    
 
   <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&duration=4000&pause=1000&center=true&random=false&width=500&height=70&lines=Thanks+for+visiting!+%E2%9C%8C%EF%B8%8F;Shoot+me+a+message+on+Gmail+!;I'm+always+down+to+collab+%E2%99%A5%EF%B8%8F">
