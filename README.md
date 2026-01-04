@@ -28,10 +28,6 @@
   <br/><br/><br/>
 </div>
       
-<hr/>
-<br>
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
   <a href="#" title="Bomoursenfant">
