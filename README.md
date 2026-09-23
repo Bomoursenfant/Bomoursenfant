@@ -32,7 +32,6 @@
   <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&duration=4000&pause=1000&center=true&random=false&width=500&height=70&lines=Thanks+for+visiting!+%E2%9C%8C%EF%B8%8F;Shoot+me+a+message+on+Gmail+!;I'm+always+down+to+collab+%E2%99%A5%EF%B8%8F">
 </h3>
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on embedded control systems, including firmware, drivers.
 - 🌱 I’m currently learning embedded Linux fundamentals, and improving low-level debugging skills.
