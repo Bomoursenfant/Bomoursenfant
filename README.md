@@ -10,7 +10,7 @@
 
  🌍 I'm based in **Vietnamese**
   
-  🔭 I’m currently studying on **DUT**
+  🔭 I’m a graduate of **DUT**
 
    ⚡ Fun fact **The visual areas of the brain are in the back**
 
