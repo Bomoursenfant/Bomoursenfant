@@ -35,7 +35,7 @@
 
 - 🔭 I’m currently working on embedded control systems, including firmware, drivers.
 - 🌱 I’m currently learning embedded Linux fundamentals, and improving low-level debugging skills.
-- 👯 I’m looking to collaborate on MCU projects (STM32/ESP32/ARM), sensor integration, and IoT/edge applications.
+- 👯 I’m looking to collaborate on MCU projects (STM32/ESP32/ARDUINO), sensor integration, and IoT/edge applications.
 - 🤔 I’m looking for help with with best practices for scalable embedded architecture and automated testing for firmware.
 - 📫 How to reach me: trinhthanh2712.work@gmail.com
 - ⚡ Fun fact: I enjoy debugging hardware issues—finding the root cause feels like solving a puzzle.
